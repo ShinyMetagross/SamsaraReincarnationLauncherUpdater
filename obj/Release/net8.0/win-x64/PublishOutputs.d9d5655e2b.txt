@@ -1,0 +1,2 @@
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\publish\win-x64\SamsaraUpdater.pdb
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\publish\win-x64\SamsaraUpdater.exe

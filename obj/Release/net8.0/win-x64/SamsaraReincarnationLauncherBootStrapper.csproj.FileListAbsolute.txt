@@ -1,0 +1,14 @@
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\win-x64\SamsaraUpdater.exe
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\win-x64\SamsaraUpdater.deps.json
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\win-x64\SamsaraUpdater.runtimeconfig.json
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\win-x64\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\win-x64\SamsaraUpdater.pdb
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraReincarnationLauncherBootStrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraReincarnationLauncherBootStrapper.AssemblyInfoInputs.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraReincarnationLauncherBootStrapper.AssemblyInfo.cs
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraReincarnationLauncherBootStrapper.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\refint\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraUpdater.pdb
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\SamsaraReincarnationLauncherBootStrapper.genruntimeconfig.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\win-x64\ref\SamsaraUpdater.dll

@@ -1,0 +1,14 @@
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraReincarnationLauncherBootStrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraReincarnationLauncherBootStrapper.AssemblyInfoInputs.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraReincarnationLauncherBootStrapper.AssemblyInfo.cs
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraReincarnationLauncherBootStrapper.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraReincarnationLauncherBootStrapper.genruntimeconfig.cache
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\SamsaraUpdater.exe
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\SamsaraUpdater.deps.json
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\SamsaraUpdater.runtimeconfig.json
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\bin\Release\net8.0\SamsaraUpdater.pdb
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\refint\SamsaraUpdater.dll
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\SamsaraUpdater.pdb
+C:\Users\andyc\Desktop\Modding stuff\repositories\SamsaraReincarnationLauncherBootStrapper\obj\Release\net8.0\ref\SamsaraUpdater.dll
