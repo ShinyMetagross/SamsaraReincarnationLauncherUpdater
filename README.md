@@ -1,2 +1,1 @@
-# SamsaraReincarnationBootStrapper
-The code to my bootstrap updater
+The official page for the updater for the Samsara Reincarnation Launcher. This is a companion app to go with the launcher.
