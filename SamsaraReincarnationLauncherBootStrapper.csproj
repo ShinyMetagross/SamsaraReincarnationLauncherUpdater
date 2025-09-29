@@ -4,6 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <AssemblyName>SamsaraUpdater</AssemblyName>
+    <Version>1.1</Version>
+    <ProductVersion>1.1</ProductVersion>
   </PropertyGroup>
 
 </Project>

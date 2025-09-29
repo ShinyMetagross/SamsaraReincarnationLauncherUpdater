@@ -17,7 +17,8 @@ namespace SamsaraReincarnationLauncherBootStrapper
             //main.WaitForExit();
             while (Process.GetProcessesByName("Samsara_Reincarnation").Length > 0) Thread.Sleep(100);
             var me = new SamsaraReincarnationLauncherBootStrapper();
-            me.logPath = "update_" + DateTime.Now.ToString().Replace("/", "-").Replace(":", "_") + ".txt";
+            Directory.CreateDirectory("Logs");
+            me.logPath = Path.Combine("Logs","update_" + DateTime.Now.ToString().Replace("/", "-").Replace(":", "_") + ".txt");
             //Delete old version files
             for (int i = 1; i < args.Count(); i++)
             {
